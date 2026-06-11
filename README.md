@@ -23,7 +23,7 @@
 
 [![Instagram](https://img.shields.io/badge/@caaiio.dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/caaiio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio_Rissa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-rissa-b4706527a/)
-[![X](https://img.shields.io/badge/@caaiiors__-ffffff?style=flat-square&logo=x&logoColor=black)](https://x.com/caiorissa)
+[![X](https://img.shields.io/badge/@caiorissa-ffffff?style=flat-square&logo=x&logoColor=black)](https://x.com/caiorissa)
 
 </div>
 
@@ -57,6 +57,7 @@
       <p>Portfolio audiovisual com serviços, showcase de vídeos e contato para novos projetos.</p>
       <p>
         <a href="https://riegelfilms.com"><img src="https://img.shields.io/badge/site-riegelfilms.com-5227FF?style=flat-square" /></a>
+        <a href="https://github.com/caiorissa/portfolio-riegel"><img src="https://img.shields.io/badge/código-portfolio--riegel-0d0d0d?style=flat-square&logo=github" /></a>
       </p>
     </td>
   </tr>
