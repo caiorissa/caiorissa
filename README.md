@@ -117,7 +117,7 @@
 
 ### ◈ vamos conversar?
 
-Se você tem um projeto, uma ideia ou só quer trocar uma ideia sobre front-end — me chama.
+Se você tem um projeto, uma ideia ou só quer trocar uma ideia sobre front-end, me chama.
 
 <div align="center">
 
