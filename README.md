@@ -11,7 +11,7 @@
 
 <br /><br />
 
-**Desenvolvedor front-end** do RS que transforma layout em experiência — interfaces limpas, animações sutis e muito cuidado com detalhe.
+**Desenvolvedor front-end** do RS que transforma layout em experiência, interfaces limpas, animações sutis e muito cuidado com detalhe.
 
 <br />
 
@@ -32,7 +32,7 @@
 ### ◈ o que eu faço
 
 ```diff
-+ Sites e landing pages sob medida — design no Figma, código na mão
++ Sites e landing pages sob medida - design no Figma, código na mão
 + Interfaces React com motion, glassmorphism e atenção obsessiva ao pixel
 + Mockups de UI/UX para nichos reais: barbearia, academia, imobiliária e mais
 + Co-fundador da Loomee AI — seu negócio precisa de site, a gente faz
