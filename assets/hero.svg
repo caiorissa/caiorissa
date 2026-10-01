@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Caio Rissa — Front-end e UI/UX</title>
+  <desc id="desc">Banner escuro com tipografia branca, detalhes em violeta e ciano e um núcleo orbital geométrico. Design com intenção. Código com precisão.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#111222"/><stop offset="1" stop-color="#090B14"/></linearGradient>
+    <linearGradient id="accent" x1="40" y1="0" x2="1160" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#C4B5FD"/><stop offset="0.5" stop-color="#818CF8"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#6D5CE7" stop-opacity="0.24"/><stop offset="1" stop-color="#6D5CE7" stop-opacity="0"/></radialGradient>
+    <linearGradient id="core" x1="-95" y1="-95" x2="95" y2="95" gradientUnits="userSpaceOnUse"><stop stop-color="#C4B5FD" stop-opacity="0.2"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0.04"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#B5B0F3" stroke-opacity="0.045"/></pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="439" rx="24" fill="url(#bg)" stroke="#2B2B44"/>
+  <rect x="1" y="1" width="1198" height="438" rx="24" fill="url(#grid)"/>
+  <ellipse cx="940" cy="205" rx="285" ry="230" fill="url(#halo)"/>
+  <path d="M40 1H1160" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <circle cx="57" cy="55" r="5" fill="#67E8F9"/>
+    <text x="74" y="61" fill="#B6BCD4" font-size="15" letter-spacing="3">DESIGN × CODE</text>
+    <text x="1144" y="61" text-anchor="end" fill="#969CB9" font-size="14" letter-spacing="2">PORTFOLIO / CR.</text>
+    <text x="51" y="202" fill="#F4F2FF" font-size="96" font-weight="700" letter-spacing="-5">Caio Rissa<tspan fill="#C4B5FD">.</tspan></text>
+    <text x="56" y="251" fill="#C4B5FD" font-size="24" letter-spacing="5">FRONT-END &amp; UI/UX</text>
+    <text x="56" y="310" fill="#C8CCDF" font-size="23">Design com intenção. Código com precisão.</text>
+    <path d="M56 351H1144" stroke="#2B2C43"/>
+    <text x="56" y="395" fill="#929AB8" font-size="15" letter-spacing="2">FIGMA → REACT → EXPERIÊNCIA</text>
+    <circle cx="865" cy="389" r="4" fill="#86EFAC"/>
+    <text x="881" y="395" fill="#B6BCD4" font-size="14" letter-spacing="1.5">ABERTO A NOVOS PROJETOS</text>
+  </g>
+  <g transform="translate(950 212)">
+    <circle r="119" stroke="#8781C9" stroke-opacity="0.22" stroke-dasharray="3 9"/>
+    <circle r="95" fill="url(#core)" stroke="#A89BE8" stroke-opacity="0.55"/>
+    <ellipse rx="44" ry="95" stroke="#A89BE8" stroke-opacity="0.45"/>
+    <ellipse rx="73" ry="95" stroke="#A89BE8" stroke-opacity="0.25"/>
+    <ellipse rx="95" ry="33" stroke="#A89BE8" stroke-opacity="0.4"/>
+    <ellipse rx="95" ry="66" stroke="#A89BE8" stroke-opacity="0.25"/>
+    <path d="M-95 0H95M0-95V95" stroke="#A89BE8" stroke-opacity="0.3"/>
+    <ellipse rx="161" ry="47" transform="rotate(-32)" stroke="#67E8F9" stroke-opacity="0.72"/>
+    <ellipse rx="145" ry="52" transform="rotate(38)" stroke="#C4B5FD" stroke-opacity="0.4"/>
+    <circle cx="135" cy="-72" r="5" fill="#67E8F9"/>
+    <circle cx="-112" cy="-71" r="4" fill="#C4B5FD"/>
+    <rect x="-34" y="-25" width="68" height="50" rx="12" fill="#111320" stroke="#A99DEB"/>
+    <path d="M-14-7L-22 0L-14 7M14-7L22 0L14 7M5-11L-5 11" stroke="#E2DDFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
