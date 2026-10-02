@@ -102,7 +102,7 @@ Um site, uma landing page ou a interface do seu produto. Vamos transformar sua i
 
 **[Conversar no WhatsApp ↗](https://wa.me/5551994210879)** &nbsp; ou &nbsp; **[caiorissa@gmail.com](mailto:caiorissa@gmail.com)**
 
-[LinkedIn](https://www.linkedin.com/in/caio-rissa-b4706527a/) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/caaiio.dev/) &nbsp; / &nbsp; [X](https://x.com/caiorissa) &nbsp; / &nbsp; [Portfólio completo](https://caiorissa.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/caio-rissa-b4706527a/) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/caiorissadev/) &nbsp; / &nbsp; [X](https://x.com/caiorissa) &nbsp; / &nbsp; [Portfólio completo](https://caiorissa.vercel.app/)
 
 <br>
 
