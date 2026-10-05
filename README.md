@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://caiorissa.vercel.app/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-C4B5FD?style=for-the-badge&amp;logo=vercel&amp;logoColor=11111B" alt="Acessar portfólio"></a>
-  <a href="https://www.linkedin.com/in/caio-rissa-b4706527a/"><img src="https://img.shields.io/badge/LINKEDIN-151525?style=for-the-badge" alt="Conectar no LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/caio-rissa-silveira-b4706527a/"><img src="https://img.shields.io/badge/LINKEDIN-151525?style=for-the-badge" alt="Conectar no LinkedIn"></a>
   <a href="mailto:caiorissa@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-151525?style=for-the-badge&amp;logo=gmail&amp;logoColor=67E8F9" alt="Enviar e-mail"></a>
   <a href="https://loomeeai.com/"><img src="https://img.shields.io/badge/LOOMEE_AI-151525?style=for-the-badge" alt="Conhecer a Loomee AI"></a>
 </p>
@@ -102,7 +102,7 @@ Um site, uma landing page ou a interface do seu produto. Vamos transformar sua i
 
 **[Conversar no WhatsApp ↗](https://wa.me/5551994210879)** &nbsp; ou &nbsp; **[caiorissa@gmail.com](mailto:caiorissa@gmail.com)**
 
-[LinkedIn](https://www.linkedin.com/in/caio-rissa-b4706527a/) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/caiorissadev/) &nbsp; / &nbsp; [X](https://x.com/caiorissa) &nbsp; / &nbsp; [Portfólio completo](https://caiorissa.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/caio-rissa-silveira-b4706527a/) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/caiorissadev/) &nbsp; / &nbsp; [X](https://x.com/caiorissa) &nbsp; / &nbsp; [Portfólio completo](https://caiorissa.vercel.app/)
 
 <br>
 
