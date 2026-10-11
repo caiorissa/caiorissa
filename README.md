@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Caio Rissa — Front-end e UI/UX. Design com intenção. Código com precisão.">
+  <img src="./assets/hero.svg" width="100%" alt="Caio Rissa — Desenvolvedor Full Stack. Aplicações web da interface aos dados.">
 </p>
 
 <p align="center">
@@ -10,18 +10,18 @@
 </p>
 
 <p align="center">
-  <sub>RIO GRANDE DO SUL, BRASIL &nbsp; / &nbsp; FRONT-END &amp; UI/UX &nbsp; / &nbsp; DISPONÍVEL PARA PROJETOS</sub>
+  <sub>RIO GRANDE DO SUL, BRASIL &nbsp; / &nbsp; DESENVOLVEDOR FULL STACK &nbsp; / &nbsp; DISPONÍVEL PARA PROJETOS</sub>
 </p>
 
 <br>
 
-## `01` &nbsp; Design encontra código
+## `01` &nbsp; Aplicações completas, da interface aos dados
 
-Sou **Caio Rissa Silveira**. Transformo ideias e problemas complexos em interfaces claras, responsivas e naturais de usar. Meu trabalho conecta a intenção do design à experiência de quem está do outro lado da tela.
+Sou **Caio Rissa Silveira**, desenvolvedor full-stack do Rio Grande do Sul. Construo produtos web de ponta a ponta: interfaces, APIs, regras de negócio, integrações e persistência de dados. Gosto de transformar problemas reais em ferramentas claras e confiáveis.
 
-Do **Figma ao React**, cuido da hierarquia visual, das interações e da performance. Sou também cofundador da **[Loomee AI](https://loomeeai.com/)**, estúdio independente de sites e landing pages sob medida.
+UI/UX continua fazendo parte do meu processo, junto com arquitetura e código. Sou também cofundador da **[Loomee AI](https://loomeeai.com/)**, estúdio independente de sites e landing pages sob medida.
 
-> Cada elemento tem um propósito. Cada interação faz parte da experiência.
+> Da interface ao banco de dados, cada parte precisa resolver o problema do produto.
 
 <br>
 
@@ -29,25 +29,40 @@ Do **Figma ao React**, cuido da hierarquia visual, das interações e da perform
 
 <p>
   <img src="https://img.shields.io/badge/React-151525?style=for-the-badge&amp;logo=react&amp;logoColor=67E8F9" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-151525?style=for-the-badge&amp;logo=next.js&amp;logoColor=FFFFFF" alt="Next.js">
   <img src="https://img.shields.io/badge/TypeScript-151525?style=for-the-badge&amp;logo=typescript&amp;logoColor=A5B4FC" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-151525?style=for-the-badge&amp;logo=javascript&amp;logoColor=FDE68A" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-151525?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=86EFAC" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-151525?style=for-the-badge&amp;logo=postgresql&amp;logoColor=93C5FD" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-151525?style=for-the-badge&amp;logo=prisma&amp;logoColor=FFFFFF" alt="Prisma">
+  <img src="https://img.shields.io/badge/REST_APIs-151525?style=for-the-badge&amp;logo=fastapi&amp;logoColor=C4B5FD" alt="REST APIs">
   <img src="https://img.shields.io/badge/Tailwind_CSS-151525?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=67E8F9" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/HTML5-151525?style=for-the-badge&amp;logo=html5&amp;logoColor=FDBA74" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-151525?style=for-the-badge&amp;logo=css&amp;logoColor=C4B5FD" alt="CSS">
+  <img src="https://img.shields.io/badge/Supabase_Auth-151525?style=for-the-badge&amp;logo=supabase&amp;logoColor=86EFAC" alt="Supabase Auth">
+  <img src="https://img.shields.io/badge/Azure_Cosmos_DB-151525?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=93C5FD" alt="Azure Cosmos DB">
+  <img src="https://img.shields.io/badge/pg--boss-151525?style=for-the-badge&amp;logo=postgresql&amp;logoColor=FDBA74" alt="pg-boss">
+  <img src="https://img.shields.io/badge/ExcelJS-151525?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=86EFAC" alt="ExcelJS">
   <img src="https://img.shields.io/badge/Figma-151525?style=for-the-badge&amp;logo=figma&amp;logoColor=F9A8D4" alt="Figma">
 </p>
 
-**Interfaces** &nbsp; Componentes consistentes · Design responsivo · Semântica e acessibilidade<br>
-**Experiência** &nbsp; UI/UX · Prototipação · Microinterações · Hierarquia visual
+**Frontend** &nbsp; React · Next.js · TypeScript · Tailwind CSS · UI/UX<br>
+**Backend** &nbsp; Node.js · APIs REST · autenticação · processamento em segundo plano<br>
+**Dados** &nbsp; PostgreSQL · Prisma · Azure Cosmos DB · relatórios Excel
 
 <br>
 
 ## `03` &nbsp; Projetos & estúdio
 
-Uma seleção do meu trabalho em design de interface e desenvolvimento front-end.
+Projetos comerciais, produtos web e estudos de interface.
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3>↗ Gestec Help Desk</h3>
+      <p><sub>SISTEMA INTERNO · DESENVOLVIMENTO FULL STACK</sub></p>
+      <p>Sistema de gestão de serviços que reúne tickets, apontamentos de horas, projetos, ativos de TI, inventário, auditoria de estações e relatórios. Aplicação criada para uso interno, sem código ou acesso público.</p>
+      <p><code>Next.js 15</code> <code>React 19</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Supabase Auth</code> <code>Azure Cosmos DB</code> <code>pg-boss</code> <code>ExcelJS</code> <code>MCP</code></p>
+      <p><a href="https://caiorissa.vercel.app/#projects"><strong>Ver telas e detalhes no portfólio →</strong></a></p>
+    </td>
     <td width="50%" valign="top">
       <h3>↗ Fyzen</h3>
       <p><sub>PRODUTO FITNESS</sub></p>
@@ -83,9 +98,9 @@ Uma seleção do meu trabalho em design de interface e desenvolvimento front-end
 
 <br>
 
-## `04` &nbsp; Interface lab
+## `04` &nbsp; Estudos de produto e interface
 
-Estudos autorais e conceitos para experimentar novas direções visuais e explorar produtos de diferentes segmentos.
+Conceitos autorais para explorar novas direções visuais e produtos de diferentes segmentos.
 
 | Experimento | Universo | Stack / foco | Explore |
 | :--- | :--- | :--- | :--- |

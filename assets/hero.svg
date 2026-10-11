@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Caio Rissa — Front-end e UI/UX</title>
-  <desc id="desc">Banner escuro com tipografia branca, detalhes em violeta e ciano e um núcleo orbital geométrico. Design com intenção. Código com precisão.</desc>
+  <title id="title">Caio Rissa — Desenvolvedor Full Stack</title>
+  <desc id="desc">Banner escuro com tipografia branca, detalhes em violeta e ciano e um núcleo orbital geométrico. Aplicações web da interface aos dados.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#111222"/><stop offset="1" stop-color="#090B14"/></linearGradient>
     <linearGradient id="accent" x1="40" y1="0" x2="1160" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#C4B5FD"/><stop offset="0.5" stop-color="#818CF8"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
@@ -14,13 +14,13 @@
   <path d="M40 1H1160" stroke="url(#accent)" stroke-width="2"/>
   <g font-family="'Segoe UI', Arial, sans-serif">
     <circle cx="57" cy="55" r="5" fill="#67E8F9"/>
-    <text x="74" y="61" fill="#B6BCD4" font-size="15" letter-spacing="3">DESIGN × CODE</text>
+    <text x="74" y="61" fill="#B6BCD4" font-size="15" letter-spacing="3">FULL-STACK DEVELOPMENT</text>
     <text x="1144" y="61" text-anchor="end" fill="#969CB9" font-size="14" letter-spacing="2">PORTFOLIO / CR.</text>
     <text x="51" y="202" fill="#F4F2FF" font-size="96" font-weight="700" letter-spacing="-5">Caio Rissa<tspan fill="#C4B5FD">.</tspan></text>
-    <text x="56" y="251" fill="#C4B5FD" font-size="24" letter-spacing="5">FRONT-END &amp; UI/UX</text>
-    <text x="56" y="310" fill="#C8CCDF" font-size="23">Design com intenção. Código com precisão.</text>
+    <text x="56" y="251" fill="#C4B5FD" font-size="24" letter-spacing="5">FULL-STACK DEVELOPER</text>
+    <text x="56" y="310" fill="#C8CCDF" font-size="23">Aplicações web da interface aos dados.</text>
     <path d="M56 351H1144" stroke="#2B2C43"/>
-    <text x="56" y="395" fill="#929AB8" font-size="15" letter-spacing="2">FIGMA → REACT → EXPERIÊNCIA</text>
+    <text x="56" y="395" fill="#929AB8" font-size="15" letter-spacing="2">NEXT.JS → APIs → DADOS</text>
     <circle cx="865" cy="389" r="4" fill="#86EFAC"/>
     <text x="881" y="395" fill="#B6BCD4" font-size="14" letter-spacing="1.5">ABERTO A NOVOS PROJETOS</text>
   </g>
