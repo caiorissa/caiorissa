@@ -35,7 +35,7 @@ UI/UX continua fazendo parte do meu processo, junto com arquitetura e código. S
   <img src="https://img.shields.io/badge/Node.js-151525?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=86EFAC" alt="Node.js">
   <img src="https://img.shields.io/badge/PostgreSQL-151525?style=for-the-badge&amp;logo=postgresql&amp;logoColor=93C5FD" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Prisma-151525?style=for-the-badge&amp;logo=prisma&amp;logoColor=FFFFFF" alt="Prisma">
-  <img src="https://img.shields.io/badge/REST_APIs-151525?style=for-the-badge&amp;logo=fastapi&amp;logoColor=C4B5FD" alt="REST APIs">
+  <img src="https://img.shields.io/badge/REST_APIs-151525?style=for-the-badge&amp;logoColor=C4B5FD" alt="REST APIs">
   <img src="https://img.shields.io/badge/Tailwind_CSS-151525?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=67E8F9" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Supabase_Auth-151525?style=for-the-badge&amp;logo=supabase&amp;logoColor=86EFAC" alt="Supabase Auth">
   <img src="https://img.shields.io/badge/Azure_Cosmos_DB-151525?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=93C5FD" alt="Azure Cosmos DB">
