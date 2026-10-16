@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <sub>RIO GRANDE DO SUL, BRASIL &nbsp; / &nbsp; DESENVOLVEDOR FULL STACK &nbsp; / &nbsp; DISPONÍVEL PARA PROJETOS</sub>
+  <sub>RIO GRANDE DO SUL, BRASIL &nbsp; / &nbsp; FULL STACK &amp; IA &nbsp; / &nbsp; DISPONÍVEL PARA PROJETOS</sub>
 </p>
 
 <br>
@@ -19,6 +19,8 @@
 Sou **Caio Rissa Silveira**, desenvolvedor full-stack do Rio Grande do Sul. Construo produtos web de ponta a ponta: interfaces, APIs, regras de negócio, integrações e persistência de dados. Gosto de transformar problemas reais em ferramentas claras e confiáveis.
 
 UI/UX continua fazendo parte do meu processo, junto com arquitetura e código. Sou também cofundador da **[Loomee AI](https://loomeeai.com/)**, estúdio independente de sites e landing pages sob medida.
+
+Também trabalho com **inteligência artificial (IA)**, incorporando ferramentas de IA ao meu processo de desenvolvimento e à criação de soluções digitais.
 
 > Da interface ao banco de dados, cada parte precisa resolver o problema do produto.
 
@@ -41,11 +43,13 @@ UI/UX continua fazendo parte do meu processo, junto com arquitetura e código. S
   <img src="https://img.shields.io/badge/pg--boss-151525?style=for-the-badge&amp;logo=postgresql&amp;logoColor=FDBA74" alt="pg-boss">
   <img src="https://img.shields.io/badge/ExcelJS-151525?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=86EFAC" alt="ExcelJS">
   <img src="https://img.shields.io/badge/Figma-151525?style=for-the-badge&amp;logo=figma&amp;logoColor=F9A8D4" alt="Figma">
+  <img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-151525?style=for-the-badge" alt="Inteligência Artificial">
 </p>
 
 **Frontend** &nbsp; React · Next.js · TypeScript · Tailwind CSS · UI/UX<br>
 **Backend** &nbsp; Node.js · APIs REST · autenticação · processamento em segundo plano<br>
-**Dados** &nbsp; PostgreSQL · Prisma · Azure Cosmos DB · relatórios Excel
+**Dados** &nbsp; PostgreSQL · Prisma · Azure Cosmos DB · relatórios Excel<br>
+**IA** &nbsp; Ferramentas de inteligência artificial aplicadas ao desenvolvimento
 
 <br>
 
